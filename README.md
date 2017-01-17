@@ -13,6 +13,3 @@ my first page
 
 </body>
 </html>
-<?php
-echo "my name is vijay";
-?>
