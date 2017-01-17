@@ -8,5 +8,6 @@ my first page
 <td> Mathad</td>
 
 </table>
+<img src="vijay.jpg" alt="new">
 </body>
 </html>
