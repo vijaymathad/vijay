@@ -9,5 +9,9 @@ my first page
 
 </table>
 <img src="vijay.jpg" alt="new">
+
+<?php
+echo "my name is vijay";
+?>
 </body>
 </html>
